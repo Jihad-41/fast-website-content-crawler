@@ -1,0 +1,13 @@
+[
+  {
+    "url": "https://example.com/",
+    "title": "Example Domain",
+    "metaDescription": "Example Domain - a sample site for testing.",
+    "headings": ["Example Domain"],
+    "mainContent": "This domain is for use in illustrative examples in documents. You may use this domain in literature without prior coordination or asking for permission. More information...",
+    "links": ["https://www.iana.org/domains/reserved"],
+    "language": "en",
+    "wordCount": 39,
+    "crawlTimestamp": "2025-11-11T10:35:00Z"
+  }
+]
