@@ -1,0 +1,6 @@
+{
+  "concurrency": 20,
+  "requestTimeoutSeconds": 15,
+  "userAgent": "FastWebsiteContentCrawler/1.0 (+https://bitbash.dev)",
+  "outputPrettyPrint": true
+}
